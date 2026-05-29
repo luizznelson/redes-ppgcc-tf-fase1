@@ -1,0 +1,4 @@
+data/pcap/*.pcap
+/tmp/*.bin
+__pycache__/
+*.pyc

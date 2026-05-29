@@ -1,0 +1,10 @@
+# Dependências para análise e geração de gráficos (host / Colab)
+# Executar: pip3 install -r requirements.txt --break-system-packages
+
+scapy>=2.5.0          # conversão de .pcap → .csv (roda dentro do container Docker)
+plotly>=5.0.0         # gráficos interativos HTML
+seaborn>=0.12.0       # heatmaps e boxplots estáticos
+pandas>=1.5.0         # manipulação de dados tabulares
+numpy>=1.23.0         # operações numéricas
+matplotlib>=3.6.0     # backend para Seaborn
+kaleido==0.2.1        # exportação de PNGs do Plotly (v0.2.x não requer Chrome)

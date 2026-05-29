@@ -1,0 +1,48 @@
+version: "3.9"
+
+networks:
+  testnet:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/24
+
+services:
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile.node
+    container_name: ppgcc_server
+    hostname: server
+    networks:
+      testnet:
+        ipv4_address: 172.20.0.10
+    volumes:
+      - ../src:/app
+      - ../data:/data
+    command: python3 /app/server.py --mode both
+    cap_add:
+      - NET_ADMIN        # necessário para tc
+    # sysctls rmem/wmem_max must be set on the WSL2 host, not inside the container
+    # sudo sysctl -w net.core.rmem_max=26214400 net.core.wmem_max=26214400
+
+  client:
+    build:
+      context: .
+      dockerfile: Dockerfile.node
+    container_name: ppgcc_client
+    hostname: client
+    networks:
+      testnet:
+        ipv4_address: 172.20.0.20
+    volumes:
+      - ../src:/app
+      - ../data:/data
+      - ../scripts:/scripts
+    depends_on:
+      - server
+    cap_add:
+      - NET_ADMIN        # necessário para tc
+    # sysctls rmem/wmem_max must be set on the WSL2 host, not inside the container
+    # Não inicia automaticamente — controlado pelos scripts de teste
+    command: tail -f /dev/null

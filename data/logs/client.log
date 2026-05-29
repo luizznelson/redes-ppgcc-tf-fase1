@@ -1,0 +1,67 @@
+2026-05-29 11:34:14,578 [INFO] Gerando arquivo de teste: /tmp/testfile.bin (10 MB)
+2026-05-29 11:34:14,793 [INFO] [TCP] Scenario A: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 0.1424, 'throughput_mbps': 588.9617, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'A', 'bytes_sent': 10485760, 'client_elapsed_sec': 0.1429, 'client_throughput_mbps': 587.0038}
+2026-05-29 11:34:20,461 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 11:34:20,474 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:10:38,850 [INFO] Gerando arquivo de teste: /tmp/testfile.bin (10 MB)
+2026-05-29 12:10:39,062 [INFO] [TCP] Scenario A: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 0.1356, 'throughput_mbps': 618.6135, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'A', 'bytes_sent': 10485760, 'client_elapsed_sec': 0.1365, 'client_throughput_mbps': 614.3885}
+2026-05-29 12:10:44,726 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:10:44,742 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:10:51,792 [INFO] [SR] Scenario A: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 0, 'bytes_sent': 10485760, 'elapsed_sec': 7.3347, 'throughput_mbps': 11.4368, 'scenario': 'A'}
+2026-05-29 12:11:02,535 [INFO] [TCP] Scenario A: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 0.1368, 'throughput_mbps': 613.3807, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'A', 'bytes_sent': 10485760, 'client_elapsed_sec': 0.1376, 'client_throughput_mbps': 609.56}
+2026-05-29 12:11:08,020 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:11:08,032 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:11:15,309 [INFO] [SR] Scenario A: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 0, 'bytes_sent': 10485760, 'elapsed_sec': 7.2755, 'throughput_mbps': 11.53, 'scenario': 'A'}
+2026-05-29 12:11:25,996 [INFO] [TCP] Scenario A: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 0.1709, 'throughput_mbps': 490.9124, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'A', 'bytes_sent': 10485760, 'client_elapsed_sec': 0.1737, 'client_throughput_mbps': 483.0742}
+2026-05-29 12:11:32,280 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:11:32,292 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:11:39,740 [INFO] [SR] Scenario A: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 0, 'bytes_sent': 10485760, 'elapsed_sec': 7.4452, 'throughput_mbps': 11.2672, 'scenario': 'A'}
+2026-05-29 12:11:51,311 [INFO] [TCP] Scenario A: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 0.1273, 'throughput_mbps': 659.162, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'A', 'bytes_sent': 10485760, 'client_elapsed_sec': 0.1287, 'client_throughput_mbps': 651.7212}
+2026-05-29 12:11:57,223 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:11:57,236 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:12:04,670 [INFO] [SR] Scenario A: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 0, 'bytes_sent': 10485760, 'elapsed_sec': 7.4323, 'throughput_mbps': 11.2867, 'scenario': 'A'}
+2026-05-29 12:12:16,492 [INFO] [TCP] Scenario A: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 0.1351, 'throughput_mbps': 621.1398, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'A', 'bytes_sent': 10485760, 'client_elapsed_sec': 0.1359, 'client_throughput_mbps': 617.2116}
+2026-05-29 12:12:21,931 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:12:21,944 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:12:29,544 [INFO] [SR] Scenario A: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 0, 'bytes_sent': 10485760, 'elapsed_sec': 7.5977, 'throughput_mbps': 11.041, 'scenario': 'A'}
+2026-05-29 12:14:48,187 [INFO] [TCP] Scenario B: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 126.1604, 'throughput_mbps': 0.6649, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'B', 'bytes_sent': 10485760, 'client_elapsed_sec': 126.1628, 'client_throughput_mbps': 0.6649}
+2026-05-29 12:14:58,730 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:14:58,782 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:19:41,773 [INFO] [SR] Scenario B: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 1196, 'bytes_sent': 10485760, 'elapsed_sec': 285.1566, 'throughput_mbps': 0.2942, 'scenario': 'B'}
+2026-05-29 12:21:56,278 [INFO] [TCP] Scenario B: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 123.44, 'throughput_mbps': 0.6796, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'B', 'bytes_sent': 10485760, 'client_elapsed_sec': 123.4409, 'client_throughput_mbps': 0.6796}
+2026-05-29 12:22:04,170 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:22:04,222 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:26:34,051 [INFO] [SR] Scenario B: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 1142, 'bytes_sent': 10485760, 'elapsed_sec': 271.7314, 'throughput_mbps': 0.3087, 'scenario': 'B'}
+2026-05-29 12:28:51,010 [INFO] [TCP] Scenario B: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 126.3479, 'throughput_mbps': 0.6639, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'B', 'bytes_sent': 10485760, 'client_elapsed_sec': 126.3488, 'client_throughput_mbps': 0.6639}
+2026-05-29 12:28:59,872 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:28:59,924 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:33:38,925 [INFO] [SR] Scenario B: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 1147, 'bytes_sent': 10485760, 'elapsed_sec': 281.0289, 'throughput_mbps': 0.2985, 'scenario': 'B'}
+2026-05-29 12:35:54,498 [INFO] [TCP] Scenario B: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 123.884, 'throughput_mbps': 0.6771, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'B', 'bytes_sent': 10485760, 'client_elapsed_sec': 123.8848, 'client_throughput_mbps': 0.6771}
+2026-05-29 12:36:02,297 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:36:02,350 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:40:44,431 [INFO] [SR] Scenario B: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 1141, 'bytes_sent': 10485760, 'elapsed_sec': 283.8405, 'throughput_mbps': 0.2955, 'scenario': 'B'}
+2026-05-29 12:42:56,906 [INFO] [TCP] Scenario B: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 121.138, 'throughput_mbps': 0.6925, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'B', 'bytes_sent': 10485760, 'client_elapsed_sec': 121.1389, 'client_throughput_mbps': 0.6925}
+2026-05-29 12:43:05,220 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:43:05,272 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 12:47:29,828 [INFO] [SR] Scenario B: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 1084, 'bytes_sent': 10485760, 'elapsed_sec': 265.8662, 'throughput_mbps': 0.3155, 'scenario': 'B'}
+2026-05-29 12:56:07,457 [INFO] [TCP] Scenario C: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 502.6318, 'throughput_mbps': 0.1669, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'C', 'bytes_sent': 10485760, 'client_elapsed_sec': 502.6326, 'client_throughput_mbps': 0.1669}
+2026-05-29 12:56:15,908 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 12:56:16,010 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 13:03:44,222 [INFO] [SR] Scenario C: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 2535, 'bytes_sent': 10485760, 'elapsed_sec': 449.9916, 'throughput_mbps': 0.1864, 'scenario': 'C'}
+2026-05-29 13:11:50,694 [INFO] [TCP] Scenario C: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 477.5027, 'throughput_mbps': 0.1757, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'C', 'bytes_sent': 10485760, 'client_elapsed_sec': 477.5036, 'client_throughput_mbps': 0.1757}
+2026-05-29 13:11:59,180 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 13:11:59,282 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 13:19:26,482 [INFO] [SR] Scenario C: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 2533, 'bytes_sent': 10485760, 'elapsed_sec': 449.1247, 'throughput_mbps': 0.1868, 'scenario': 'C'}
+2026-05-29 13:27:45,848 [INFO] [TCP] Scenario C: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 490.6055, 'throughput_mbps': 0.171, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'C', 'bytes_sent': 10485760, 'client_elapsed_sec': 490.6065, 'client_throughput_mbps': 0.171}
+2026-05-29 13:27:54,032 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 13:27:54,134 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 13:35:27,723 [INFO] [SR] Scenario C: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 2531, 'bytes_sent': 10485760, 'elapsed_sec': 455.3171, 'throughput_mbps': 0.1842, 'scenario': 'C'}
+2026-05-29 13:43:34,345 [INFO] [TCP] Scenario C: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 475.5689, 'throughput_mbps': 0.1764, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'C', 'bytes_sent': 10485760, 'client_elapsed_sec': 475.5697, 'client_throughput_mbps': 0.1764}
+2026-05-29 13:43:43,386 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 13:43:43,888 [WARNING] [SR] Timeout metadado (tentativa 1)
+2026-05-29 13:43:43,990 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 13:51:27,316 [INFO] [SR] Scenario C: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 2577, 'bytes_sent': 10485760, 'elapsed_sec': 464.9523, 'throughput_mbps': 0.1804, 'scenario': 'C'}
+2026-05-29 13:59:27,352 [INFO] [TCP] Scenario C: {'protocol': 'TCP', 'bytes_received': 10485760, 'elapsed_sec': 469.45, 'throughput_mbps': 0.1787, 'auth': '20261005083:Luiz Nelson dos Santos Lima', 'scenario': 'C', 'bytes_sent': 10485760, 'client_elapsed_sec': 469.4509, 'client_throughput_mbps': 0.1787}
+2026-05-29 13:59:35,649 [INFO] [SR] 10240 pacotes a enviar
+2026-05-29 13:59:36,151 [WARNING] [SR] Timeout metadado (tentativa 1)
+2026-05-29 13:59:36,253 [INFO] [SR] Metadado confirmado, iniciando transferência
+2026-05-29 14:07:22,515 [INFO] [SR] Scenario C: {'protocol': 'R-UDP', 'window_size': 16, 'total_packets': 10240, 'retransmissions': 2597, 'bytes_sent': 10485760, 'elapsed_sec': 467.7445, 'throughput_mbps': 0.1793, 'scenario': 'C'}

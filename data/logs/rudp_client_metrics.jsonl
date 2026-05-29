@@ -1,0 +1,15 @@
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 0, "bytes_sent": 10485760, "elapsed_sec": 7.3347, "throughput_mbps": 11.4368, "scenario": "A"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 0, "bytes_sent": 10485760, "elapsed_sec": 7.2755, "throughput_mbps": 11.53, "scenario": "A"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 0, "bytes_sent": 10485760, "elapsed_sec": 7.4452, "throughput_mbps": 11.2672, "scenario": "A"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 0, "bytes_sent": 10485760, "elapsed_sec": 7.4323, "throughput_mbps": 11.2867, "scenario": "A"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 0, "bytes_sent": 10485760, "elapsed_sec": 7.5977, "throughput_mbps": 11.041, "scenario": "A"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 1196, "bytes_sent": 10485760, "elapsed_sec": 285.1566, "throughput_mbps": 0.2942, "scenario": "B"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 1142, "bytes_sent": 10485760, "elapsed_sec": 271.7314, "throughput_mbps": 0.3087, "scenario": "B"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 1147, "bytes_sent": 10485760, "elapsed_sec": 281.0289, "throughput_mbps": 0.2985, "scenario": "B"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 1141, "bytes_sent": 10485760, "elapsed_sec": 283.8405, "throughput_mbps": 0.2955, "scenario": "B"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 1084, "bytes_sent": 10485760, "elapsed_sec": 265.8662, "throughput_mbps": 0.3155, "scenario": "B"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 2535, "bytes_sent": 10485760, "elapsed_sec": 449.9916, "throughput_mbps": 0.1864, "scenario": "C"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 2533, "bytes_sent": 10485760, "elapsed_sec": 449.1247, "throughput_mbps": 0.1868, "scenario": "C"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 2531, "bytes_sent": 10485760, "elapsed_sec": 455.3171, "throughput_mbps": 0.1842, "scenario": "C"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 2577, "bytes_sent": 10485760, "elapsed_sec": 464.9523, "throughput_mbps": 0.1804, "scenario": "C"}
+{"protocol": "R-UDP", "window_size": 16, "total_packets": 10240, "retransmissions": 2597, "bytes_sent": 10485760, "elapsed_sec": 467.7445, "throughput_mbps": 0.1793, "scenario": "C"}
