@@ -226,16 +226,25 @@ docker exec ppgcc_client tcpdump -i eth0 -A -s 0 'port 5001' 2>/dev/null \
 
 ## Resultados e Análise
 
-Após a execução, os seguintes arquivos são gerados em `data/plots/`:
+### Throughput médio ± desvio padrão
 
-| Arquivo | Descrição |
-|---------|-----------|
-| `throughput.png` / `.html` | Throughput médio ± desvio padrão (TCP vs R-UDP, por cenário) |
-| `latency.png` / `.html` | Boxplot do tempo de transferência por cenário |
-| `retransmissions.png` / `.html` | Retransmissões médias do R-UDP por cenário |
-| `cross_validation.png` / `.html` | Bytes medidos pela aplicação vs capturados pelo tcpdump |
-| `heatmap.png` | Mapa de calor comparativo de throughput e tempo |
-| `cross_validation_table.csv` | Tabela numérica da validação cruzada com overhead% |
+![Throughput](data/plots/throughput.png)
+
+### Tempo de transferência por cenário
+
+![Latência](data/plots/latency.png)
+
+### Retransmissões R-UDP por cenário
+
+![Retransmissões](data/plots/retransmissions.png)
+
+### Validação cruzada — Aplicação vs TCPDump
+
+![Validação Cruzada](data/plots/cross_validation.png)
+
+### Heatmap comparativo
+
+![Heatmap](data/plots/heatmap.png)
 
 **Métricas coletadas:**
 
